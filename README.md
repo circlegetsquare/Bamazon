@@ -23,7 +23,7 @@ In this option, the user can see details of all items available for sale on the 
 
 ![Customer Manager Screenshot 1](/images/BamazonManager_1.png)
 
-#### View low inventory
+### View low inventory
 In this option, the user can see details of all items available for sale on the site with a stock quantity less than 5. The user is then asked if they would like to return to the menu. [see screenshot]
 
 ![Customer Manager Screenshot 2](/images/BamazonManager_2.png)
